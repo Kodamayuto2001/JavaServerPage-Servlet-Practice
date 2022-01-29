@@ -49,8 +49,8 @@
     
 
 - ## JSP/Servletの仕組み
-    [一週間で身につくJSP/Servlet]
-    [http://web.sevendays-study.com/JSPServlet/day0.html]
+    [一週間で身につくJSP/Servlet]<br>
+    [http://web.sevendays-study.com/JSPServlet/day0.html]<br>
         JSPとはJavaServerPagesの略で、Java言語を利用してアプリケーションサーバーで動的なWebページを生成し、利用者側に送信し表示させる技術。
         HTMLファイルの中に、Javaのコードを埋め込んでJavaの処理が可能になる仕組みがJSP。
 
@@ -62,8 +62,8 @@
         これは、アプリケーションソフトウェアを実行するサーバーコンピュータやクライアント側とサーバー側の中間に入るソフトウェアのことを指す。
         Webサーバーと連携することにより、Web上でアプリを動作させることを可能にしている。
 
-    [【初心者向け】サーブレットとJSPの違いをわかりやすく解説！]
-    [https://ryonotes.com/difference-between-servlet-and-jsp/]
+    [【初心者向け】サーブレットとJSPの違いをわかりやすく解説！]<br>
+    [https://ryonotes.com/difference-between-servlet-and-jsp/]<br>
         ```
 
                                                Presentation 
